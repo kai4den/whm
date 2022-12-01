@@ -2,3 +2,7 @@ title: 日本の世界遺産マップ powered by Geolonia PWAマップ
 description: Geolonia PWAマップを利用して作成した日本の世界遺産マップです。
 hosting_url: https://kai4den.github.io/whm/
 data_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTBoxWsfjJm9V9kSwviXq7F5V9fULa0BNhZRvmub5pOxwPTyD0STUetwqKpk-oykUXqE601ekUVA1RR/pub?output=csv
+logo_image_url: https://geolonia.github.io/world-heritage-map/icon-world-heritage.svg
+background_image_url: https://geolonia.github.io/world-heritage-map/background.jpg
+primary_color: #C33
+orderby: distance
